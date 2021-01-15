@@ -31,7 +31,7 @@ Arama Ekranı :
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/5.PNG)
 
-Bulunan Kelime Arandığında Sonuç :
+Aranan Kelime Kayıtda Varsa Sonuç :
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/6.PNG)
 
