@@ -4,15 +4,11 @@
 
 Uygulama 5 ana bölümden oluşmaktadır:
 
-    -------------------------------------
-    Menü 
-    -------------------------------------
     [1] Bilgi Girişi
     [2] Tüm Kayıtları Göster
     [3] Kayıt Arama
     [4] Kayıt Sil
     [5] Çıkış
-    =======================
 
 Menü:
 
