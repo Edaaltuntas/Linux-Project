@@ -10,12 +10,12 @@ Uygulama 5 ana bölümden oluşmaktadır:
     [4] Kayıt Sil
     [5] Çıkış
 
-Menü:
+Menü: Uygulamamız başlatıldığında çıkacak ana ekran
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/1.PNG)
 
 
-Bilgi Girişi :
+Bilgi Girişi : 'Add Entry' seçtiğimizde karşılaşacağımız ekran
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/2.PNG)
 
@@ -49,7 +49,7 @@ Silmek İçim Kayıtlı Olan Kelimeyi Girdiliğmizde Verilen Sonuç:
 
 Silmek İçin Kayıtlı Olmayan Kelimeyi girdiğimizde Verdiği Sonuç :
 
-![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/10.PNG)
+![alt text](https://github.com/Edaaltuntas/Linux-Project/blob/main/images/10.PNG)
 
 Çıkış Ekranı :
 
