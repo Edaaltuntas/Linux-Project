@@ -2,6 +2,8 @@
 
 &emsp; Programın Özellikleri :
 
+BASH script dili ile, kullanıcıdan alınan veriyi metin dosyasında kaydeden, arama yapmayı sağlayan, listelemeyi sağlayan ve silmeyi sağlayan bir uygulamadır.
+
 Uygulama 5 ana bölümden oluşmaktadır:
 
     [1] Veri Girişi
