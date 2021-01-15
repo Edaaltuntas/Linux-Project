@@ -4,10 +4,10 @@
 
 Uygulama 5 ana bölümden oluşmaktadır:
 
-    [1] Bilgi Girişi
-    [2] Tüm Kayıtları Göster
-    [3] Kayıt Arama
-    [4] Kayıt Sil
+    [1] Veri Girişi
+    [2] Tüm Verileri Göster
+    [3] Veri Arama
+    [4] Veri Sil
     [5] Çıkış
 
 Menü: Uygulamamız başlatıldığında çıkacak ana ekran
@@ -15,42 +15,42 @@ Menü: Uygulamamız başlatıldığında çıkacak ana ekran
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/1.PNG)
 
 
-Bilgi Girişi : 'Add Entry' seçtiğimizde karşılaşacağımız ekran
+Veri Girişi : 'Add Entry' seçtiğimizde karşılaşacağımız ekran.
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/2.PNG)
 
-Bilgi Girişi Sonucu :
+Veri Girişi Sonucu : Başarılı bilgi girişi yapıldığında ekran. Bir şey girmeden veya space' e basarak bu ekrana ulaşamazsınız. İki durumda da sizi farklı ekranlara yönlendirecektir.
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/3.PNG)
 
-Tüm Kayıtları Göster :
+Tüm Verileri Göster : Şimdiye kadar girdiğiniz verilerin listelendiği ekran. 
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/4.PNG)
 
-Arama Ekranı :
+Arama Ekranı : Aramak istediğiniz veriyi giriniz.
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/5.PNG)
 
-Aranan Kelime Kayıtda Varsa Sonuç :
+Aranan Veri Kayıtta Varsa Sonuç :
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/6.PNG)
 
-Aranan Kelime Bulunamadığında Ekran :
+Aranan Veri Bulunamadığında Sonuç :
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/7.PNG)
 
-Silme Ekranı :
+Silme Ekranı : Silmek istediğiniz veriyi giriniz.
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/8.PNG)
 
-Silmek İçim Kayıtlı Olan Kelimeyi Girdiliğmizde Verilen Sonuç: 
+Silmek İçim Kayıtlı Olan Veri Girildiğinde Alınan Sonuç: 
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/9.PNG)
 
-Silmek İçin Kayıtlı Olmayan Kelimeyi girdiğimizde Verdiği Sonuç :
+Silmek İçin Kayıtlı Olmayan Kelime Girildiğinde Alınan Sonuç :
 
 ![alt text](https://github.com/Edaaltuntas/Linux-Project/blob/main/images/10.PNG)
 
-Çıkış Ekranı :
+Çıkış Ekranı : Çıkmak istendiğinden emin olunup olunmadığı soruluyor. Emin olunduysa çıkılıyor.
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/11.PNG)
