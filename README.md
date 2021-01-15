@@ -1,4 +1,4 @@
-## Linux-Project
+# Linux-Project
 
 &emsp; Programın Özellikleri :
 
@@ -7,10 +7,10 @@ Menü:
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/1.PNG)
 
 
-#Bilgi Girişi :
+Bilgi Girişi :
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/2.PNG)
 
-#Bilgi Girişi Sonucu :
+Bilgi Girişi Sonucu :
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/3.PNG)
