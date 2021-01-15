@@ -14,3 +14,9 @@ Bilgi Girişi :
 Bilgi Girişi Sonucu :
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/3.PNG)
+
+Tüm Kayıtları Göster :
+
+![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/4.PNG)
+
+
