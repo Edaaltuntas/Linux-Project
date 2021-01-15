@@ -25,11 +25,11 @@ Veri Girişi Sonucu : Başarılı bilgi girişi yapıldığında ekran. Bir şey
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/3.PNG)
 
-Tüm Verileri Göster : Şimdiye kadar girdiğiniz verilerin listelendiği ekran. 
+Tüm Verileri Göster : 'List all' seçtiğimizde şimdiye kadar girdiğiniz verilerin listelendiği ekran. 
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/4.PNG)
 
-Arama Ekranı : Aramak istediğiniz veriyi giriniz.
+Arama Ekranı : 'Search an entry' seçtiğimizde aramak istediğiniz veriyi girdiğiniz ekran.
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/5.PNG)
 
@@ -41,7 +41,7 @@ Aranan Veri Bulunamadığında Sonuç :
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/7.PNG)
 
-Silme Ekranı : Silmek istediğiniz veriyi giriniz.
+Silme Ekranı : 'Delete an entry' seçtiğimizde silmek istediğiniz veriyi girdiğiniz ekran.
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/8.PNG)
 
@@ -53,6 +53,6 @@ Silmek İçin Kayıtlı Olmayan Kelime Girildiğinde Alınan Sonuç :
 
 ![alt text](https://github.com/Edaaltuntas/Linux-Project/blob/main/images/10.PNG)
 
-Çıkış Ekranı : Çıkmak istendiğinden emin olunup olunmadığı soruluyor. Emin olunduysa çıkılıyor.
+Çıkış Ekranı : 'Exit' seçtiğimizde çıkmak istendiğinden emin olunup olunmadığı soruluyor. Emin olunduysa çıkılıyor.
 
 ![alt text](https://raw.githubusercontent.com/Edaaltuntas/Linux-Project/main/images/11.PNG)
