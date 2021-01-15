@@ -6,11 +6,11 @@ BASH script dili ile, kullanıcıdan alınan veriyi metin dosyasında kaydeden, 
 
 Uygulama 5 ana bölümden oluşmaktadır:
 
-    [1] Veri Girişi
-    [2] Tüm Verileri Göster
-    [3] Veri Arama
-    [4] Veri Sil
-    [5] Çıkış
+    1) Veri Girişi
+    2) Tüm Verileri Göster
+    3) Veri Arama
+    4) Veri Sil
+    5) Çıkış
 
 Menü: Uygulamamız başlatıldığında çıkacak ana ekran
 
