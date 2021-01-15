@@ -69,7 +69,7 @@ delete() {
 				sed -i "/^$del/d" a.txt
 				whiptail --fb --title "Success" --msgbox "Successfully deleted" 10 50
 			else
-				whiptail --fb --title "Unsuccessfull" --msgbox "Could not find it" 10 50
+				whiptail --fb --title "Unsuccessful" --msgbox "Could not find it" 10 50
 			fi
 		fi
 }
